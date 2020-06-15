@@ -13,7 +13,7 @@ var alumni=[
   ["Akshay Deshpande", "CSE MS August '13", "Adv: Eric Fosler-Lussier", "Soothsayer Analytics", "https://www.linkedin.com/in/akshaydesh", "","Soothsayer Analytics","Columbus"],
   ["Smrite Dua", "CSE MS May '15", "Adv: Eric Fosler-Lussier", "Cisco", "https://www.linkedin.com/in/smrite-dua-34514611", "", "Cisco","Bay Area"],
   ["William Hartmann","CSE Ph.D., June '12","Adv: Eric Fosler-Lussier","Raytheon BBN Technnologies","https://www.linkedin.com/in/william-hartmann-87302696","https://scholar.google.com/citations?hl=en&user=CH32p6AAAAAJ","BBN","Boston"],
-  ["Yanzhang (Ryan) He","CSE Ph.D., May '15","Adv: Eric Fosler-Lussier","Senior Software Engineer, Google","https://www.linkedin.com/in/yanzhang-he-1072a211","https://scholar.google.com/citations?hl=en&user=2JH-fJYAAAAJ","Google","Bay Area"],
+  ["Yanzhang (Ryan) He","CSE Ph.D., May '15","Adv: Eric Fosler-Lussier","Senior Software Engineer, Google","https://www.linkedin.com/in/yanzhang-he-1072a211","https://scholar.google.com/citations?hl=en&user=2JH-fJYAAAAJ","Google","Bay Area","img/ryan.jpg"],
   ["Ilana Heintz","Linguistics Ph.D., June '10","Adv: Chris Brew, Eric Fosler-Lussier","Senior Scientist and Deputy Business Unit Manager, Raytheon BBN Technologies","https://www.linkedin.com/in/ilana-heintz-50a32b2/","","BBN","Washington"],
   ["Preethi Jyothi","CSE Ph.D., August '13","Adv: Eric Fosler-Lussier","Assistant Professor, IIT Bombay","https://www.cse.iitb.ac.in/~pjyothi/","https://scholar.google.com/citations?user=QN_uhu8AAAAJ&hl=en&oi=ao","IIT Bombay","India"],
   ["Joo Kyung Kim","CSE Ph.D., August '17","Adv: Eric Fosler-Lussier","Applied Scientist, Amazon Alexa","https://supakjk.github.io/","https://scholar.google.com/citations?hl=en&user=SeRGQv4AAAAJ","Amazon","Seattle"],
