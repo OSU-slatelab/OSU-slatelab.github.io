@@ -49,8 +49,10 @@ var team=[
   ["Ahmad Aljanaideh","CSE","Adv: Marie de Marneffe, Eric Fosler-Lussier","","https://www.linkedin.com/in/ahmad-aljanaideh-60a714126/","","img/ahmad.jpg"],
   ["Shuaichen Chang","CSE","Adv: Eric Fosler-Lussier","","https://www.linkedin.com/in/shuaichen-chang-28b90790/","","img/shuaichen.jpg"],
   ["Eric Fosler-Lussier","CSE Faculty","Lab Director","","https://efosler.github.io","https://scholar.google.com/citations?hl=en&user=AlsMV98AAAAJ&view_op=list_works","img/eric.jpg"],
+  ["Amad Hussain","CSE","Adv: Eric Fosler-Lussier","","https://www.linkedin.com/in/syed-amad-hussain-b94008b7/","","img/amad.jpg"]
   ["Chaitanya Kulkarni","CSE","Adv: Raghu Machiraju","Co-adv: Eric Fosler-Lussier","https://www.linkedin.com/in/chaitanya2334/","","img/chaitanya.jpg"],
   ["Jialin Li","Geography/CSE","Ph.D. Adv: Ningchuan Xiao","MS Adv: Eric Fosler-Lussier","https://www.linkedin.com/in/jialin-li-908058181/","","img/jialin.jpg"],
+  ["David Palzer","CSE","Adv: Eric Fosler-Lussier","","https://www.linkedin.com/in/david-palzer-04397662/","","img/david.jpg"],
   ["Peter Plantinga","CSE","Adv: Eric Fosler-Lussier","","https://www.linkedin.com/in/plantinga-peter/","https://scholar.google.com/citations?user=aBK72zwAAAAJ&hl=en&oi=ao","img/peter.jpg"],
   ["Prashant Serai","CSE","Adv: Eric Fosler-Lussier","","https://www.linkedin.com/in/prashant-serai-28391618/","https://scholar.google.com/citations?user=ORJJGWoAAAAJ&hl=en&oi=ao","img/prashant.jpg"],
   ["Vishal Sunder","CSE","Adv: Eric Fosler-Lussier","","https://www.linkedin.com/in/vishal-sunder-11a2a4193/","","img/vishal.jpg"],
